@@ -35,7 +35,7 @@ header{
 }
 
 header h1{
-    font-family: 'Lora, 400';
+    /*font-family: 'Lora, 400';*/
     font-size: 30px;
     color: #5d6320;
     padding: 65px 0 65px 25px;
